@@ -1,0 +1,23 @@
+.container {
+  background-color: #d5d1d1;
+  padding: 30px;
+  max-width: 880px;
+  margin: 0 auto;
+}
+
+.post {
+  padding: 10px 20px;
+}
+
+.date {
+  font-family: Roboto;
+  color: #008080;
+}
+
+.titulo {
+  font-family: Montserrat;
+}
+
+.cont_post {
+  font-family: Open Sans;
+}
