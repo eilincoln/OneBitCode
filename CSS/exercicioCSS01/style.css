@@ -1,0 +1,22 @@
+body {
+  background-color: #2c3e50;
+  color: #ffffff;
+}
+
+h3 {
+  color: #f1c40f;
+}
+
+h4 {
+  background-color: #f1c40f;
+  border: 2px solid #000000;
+  color: #000000;
+}
+
+.aula_primaria {
+  color: #e74c3c;
+}
+
+.titulo_dia_semana {
+  font-size: 20px;
+}
