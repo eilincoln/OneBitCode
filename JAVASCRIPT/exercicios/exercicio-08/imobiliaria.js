@@ -23,7 +23,7 @@ do {
             imovel.banheiros = prompt("Quantos banheiros possui o imóvel: ")
             imovel.garagem = prompt("O imóvel possui garagem? (Sim/Não)")
 
-            const confirmacao = confirm(
+           const confirmacao = confirm(
                 `Salvar este imóvel?
                 Proprietário: ${imovel.proprietario}
                 Quartos: ${imovel.quartos}    
@@ -49,7 +49,6 @@ do {
                     "\nPossui Garagem: " + imoveis[i].garagem
                 )
             }
-
             break
         case "3":
             alert("Encerrando Programa....")
